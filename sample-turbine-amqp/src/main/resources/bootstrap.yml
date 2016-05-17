@@ -1,0 +1,9 @@
+---
+spring:
+  application:
+    name: sample-turbine-amqp
+  cloud:
+    config:
+      enabled: false
+    discovery:
+      enabled: false
