@@ -1,5 +1,6 @@
-Up and running with Sample Spring-Cloud based Hystrix demo app
---------------------------------------------------------------
+Running the Sample app
+----------------------
+
 
 There are two ways to run the entire application:
 
@@ -34,7 +35,7 @@ mvn spring-boot:run -Dserver.port=8081
 .Start up Turbine AMQP
 [source,java]
 ----
-cd sample-turbine AMQP
+cd sample-turbine-amqp
 mvn spring-boot:run
 ----
 
