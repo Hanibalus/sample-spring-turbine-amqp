@@ -8,10 +8,10 @@ import org.springframework.cloud.netflix.turbine.stream.EnableTurbineStream;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableTurbineStream
-public class MonitorApplication {
+public class TurbineApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MonitorApplication.class, args);
+        SpringApplication.run(TurbineApplication.class, args);
     }
 
 }
