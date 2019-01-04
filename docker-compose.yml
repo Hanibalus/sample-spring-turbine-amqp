@@ -46,7 +46,7 @@ sample-turbine-amqp:
      SPRING_PROFILES_ACTIVE: docker
      RABBITMQ_HOST: rabbitmq
   ports:
-    - "8081:8080"
+    - "8085:8080"
 
 sample-hystrix-dashboard:
   image: sample-hystrix-dashboard:1.0.1-SNAPSHOT

@@ -1,6 +1,7 @@
 Running the Sample app
 ----------------------
 
+http://www.java-allandsundry.com/2016/05/spring-cloud-with-turbine-amqp.html
 
 There are two ways to run the entire application:
 
